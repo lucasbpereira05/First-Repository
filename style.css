@@ -1,4 +1,5 @@
 /* reset no css */
 * {
-    color: blue;
+    padding: 0;
+    margin: 0;
 }
